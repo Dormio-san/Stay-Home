@@ -1,2 +1,2 @@
 # Stay-Home
-My first game that I ever made. I made it in highschool using GameMaker.
+My first game that I ever made! I made it in highschool using GameMaker. The premise is to stay home because you should not be venturing outside with all of the viruses in the air. Your goal is to get some groceries and make it back home. The assets I got from google images, but I created the pixel art character within GameMaker, and the car is a picture of my car. The audio of the car is also mine as I recorded it one day when I was out driving (sounds sick, right?). There are some bugs that I noticed when I opened up the project years later, but I'm not sure that I plan on fixing these. If I do, you'll see it in this repository. Enjoy!
